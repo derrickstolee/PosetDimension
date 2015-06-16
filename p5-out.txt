@@ -1,0 +1,64 @@
+0000000000000000000000000 has dimension > 1 but no 2-standard example!
+0100000000000000000000000 has dimension > 1 but no 2-standard example!
+0110000000000000000000000 has dimension > 1 but no 2-standard example!
+0111000000000000000000000 has dimension > 1 but no 2-standard example!
+0111100000000000000000000 has dimension > 1 but no 2-standard example!
+0111100100000000000000000 has dimension > 1 but no 2-standard example!
+0111100110000000000000000 has dimension > 1 but no 2-standard example!
+0111100111000000000000000 has dimension > 1 but no 2-standard example!
+0111100111000100000000000 has dimension > 1 but no 2-standard example!
+0111100111000110000000000 has dimension > 1 but no 2-standard example!
+0111100111000110000100000 has dimension at most 1:
+ 0 <  1 <  2 <  3 <  4
+0111100111000100000000010 has dimension > 1 but no 2-standard example!
+0111100110000100000000000 has dimension > 1 but no 2-standard example!
+0111100100000000010000000 has dimension > 1 but no 2-standard example!
+0111100100000000010000100 has dimension > 1 but no 2-standard example!
+0111100100000000000100000 contains 2-standard example!
+0111100101000000000100000 has dimension > 1 but no 2-standard example!
+0111100101000010000100000 has dimension > 1 but no 2-standard example!
+0111100101000000010100000 has dimension > 1 but no 2-standard example!
+0111100101000010010100000 has dimension > 1 but no 2-standard example!
+0111000100000000000000000 has dimension > 1 but no 2-standard example!
+0111000110000000000000000 has dimension > 1 but no 2-standard example!
+0111000110000100000000000 has dimension > 1 but no 2-standard example!
+0111000100000000010000000 has dimension > 1 but no 2-standard example!
+0110000100000000000000000 has dimension > 1 but no 2-standard example!
+0100000000010000000000000 has dimension > 1 but no 2-standard example!
+0100000000010000100000000 has dimension > 1 but no 2-standard example!
+0100000000010000100001000 has dimension > 1 but no 2-standard example!
+0100000000010000000100000 contains 2-standard example!
+0100100000010000000100000 contains 2-standard example!
+0100100000010010000100000 has dimension > 1 but no 2-standard example!
+0100100001010010000100000 has dimension > 1 but no 2-standard example!
+0100100000010010100100000 has dimension > 1 but no 2-standard example!
+0100100001010010100100000 has dimension > 1 but no 2-standard example!
+0100000000010000100100000 has dimension > 1 but no 2-standard example!
+0100000000010000100101000 has dimension > 1 but no 2-standard example!
+0100000000000100000000000 contains 2-standard example!
+0101000000000100000000000 has dimension > 1 but no 2-standard example!
+0101000010000100000000000 has dimension > 1 but no 2-standard example!
+0101000000010100000000000 has dimension > 1 but no 2-standard example!
+0101000010010100000000000 has dimension > 1 but no 2-standard example!
+0100100000000100000000000 contains 2-standard example!
+0101100000000100000000000 has dimension > 1 but no 2-standard example!
+0101100010000100000000000 has dimension > 1 but no 2-standard example!
+0101100010000100000000010 has dimension > 1 but no 2-standard example!
+0101100001000100000000000 contains 2-standard example!
+0101100011000100000000000 has dimension > 1 but no 2-standard example!
+0101100011000100000000010 has dimension > 1 but no 2-standard example!
+0100100001000100000000000 contains 2-standard example!
+0100100000010100000000000 contains 2-standard example!
+0101100000010100000000000 has dimension > 1 but no 2-standard example!
+0101100010010100000000000 has dimension > 1 but no 2-standard example!
+0101100000010110000000000 has dimension > 1 but no 2-standard example!
+0101100010010110000000000 has dimension > 1 but no 2-standard example!
+0101100011010110000000000 has dimension > 1 but no 2-standard example!
+0101100011010110000100000 has dimension > 1 but no 2-standard example!
+0101100010010110000000010 has dimension > 1 but no 2-standard example!
+0101100000010100000001000 has dimension > 1 but no 2-standard example!
+0101100000010100100001000 has dimension > 1 but no 2-standard example!
+0101100000010100000001010 has dimension > 1 but no 2-standard example!
+0101100010010100000001010 has dimension > 1 but no 2-standard example!
+0100100000010100100000000 contains 2-standard example!
+0100100000010100100001000 contains 2-standard example!
